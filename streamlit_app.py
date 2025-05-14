@@ -1,4 +1,4 @@
-!pip install pandas matplotlib statsmodels openai fredapi streamlit python-dotenv
+pip install pandas matplotlib statsmodels openai fredapi streamlit python-dotenv
 import pandas as pd
 import matplotlib.pyplot as plt
 import statsmodels.api as sm
